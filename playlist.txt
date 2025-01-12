@@ -3,7 +3,5 @@ SONG = ARTIST
 
 SOS - ABBA
 One Of Us - ABBA
-Mamonas Assassinas - Mundo Animal
-Linkin Park - In the end
-System of a Down - Toxicity
-Slipknot - Before I forget
+Bee Gees - Stayin' Alive
+Bee Gees - How Deep Is Your Love
